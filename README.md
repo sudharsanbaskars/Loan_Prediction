@@ -1,2 +1,2 @@
 # Loan_Prediction
-https://github.com/sudharsanbaskars/Loan_Prediction
+In this Project i have done a simple loan prediction project.This will be helpfull for beginners
