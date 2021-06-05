@@ -1,5 +1,5 @@
 # Loan_Prediction
-This is an Analytics Vidhya Hackathon problem statement.
+This is an Analytics Vidhya Hackathon problem statement.I have got an accuracy of 77.77%
 
 ## Predict Loan Eligibility for Dream Housing Finance company
 Dream Housing Finance company deals in all kinds of home loans. They have presence across all urban, semi urban and rural areas. Customer first applies for home loan and after that company validates the customer eligibility for loan.
